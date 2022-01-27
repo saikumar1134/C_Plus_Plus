@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\9_2_Unique_Ptr_With_Class_Objects
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_4_Variadic_Template
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\AllOperatorsOverloading
+-target
+i686-pc-windows-gnu

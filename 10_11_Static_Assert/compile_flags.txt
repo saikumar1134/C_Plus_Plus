@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_11_Static_Assert
+-target
+i686-pc-windows-gnu

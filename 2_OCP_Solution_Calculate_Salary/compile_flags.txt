@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\2_OCP_Solution_Calculate_Salary
+-target
+i686-pc-windows-gnu

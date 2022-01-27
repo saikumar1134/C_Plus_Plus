@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\6_Default_Delete_Usage
+-target
+i686-pc-windows-gnu

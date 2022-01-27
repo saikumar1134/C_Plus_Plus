@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\5_Delegating_Constructor
+-target
+i686-pc-windows-gnu

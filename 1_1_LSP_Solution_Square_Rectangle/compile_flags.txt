@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\1_1_LSP_Solution_Square_Rectangle
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,4 @@
+-IE:\CodeLit\MySpace\MySpace\MyBoost
+-std=c++11
+-target
+i686-pc-windows-gnu

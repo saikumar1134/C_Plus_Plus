@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\1DArrays
+-target
+i686-pc-windows-gnu

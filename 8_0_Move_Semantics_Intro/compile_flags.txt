@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\8_0_Move_Semantics_Intro
+-target
+i686-pc-windows-gnu

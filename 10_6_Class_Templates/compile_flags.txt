@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_6_Class_Templates
+-target
+i686-pc-windows-gnu

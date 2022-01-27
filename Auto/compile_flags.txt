@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\Auto
+-target
+i686-pc-windows-gnu

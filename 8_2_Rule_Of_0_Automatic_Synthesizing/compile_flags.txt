@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\8_2_Rule_Of_0_Automatic_Synthesizing
+-target
+i686-pc-windows-gnu

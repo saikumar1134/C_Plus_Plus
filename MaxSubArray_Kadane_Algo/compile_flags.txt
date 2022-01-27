@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\MaxSubArray_Kadane_Algo
+-target
+i686-pc-windows-gnu

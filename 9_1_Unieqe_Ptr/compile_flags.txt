@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\9_1_Unieqe_Ptr
+-target
+i686-pc-windows-gnu

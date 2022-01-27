@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_10_Type_Traits
+-target
+i686-pc-windows-gnu

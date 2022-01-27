@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\7_L_Value_R_Value_References
+-target
+i686-pc-windows-gnu

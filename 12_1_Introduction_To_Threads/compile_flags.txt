@@ -1,0 +1,4 @@
+-IE:\CodeLit\MySpace\MySpace\12_1_Introduction_To_Threads
+-std=c++11
+-target
+i686-pc-windows-gnu

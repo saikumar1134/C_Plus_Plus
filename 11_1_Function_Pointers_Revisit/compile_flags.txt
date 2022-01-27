@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\11_1_Function_Pointers_Revisit
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\Inbuilt_sort
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\9_6_Weak_Pointer_Solution_Cir_Refererences
+-target
+i686-pc-windows-gnu

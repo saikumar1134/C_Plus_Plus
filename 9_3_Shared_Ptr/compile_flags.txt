@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\9_3_Shared_Ptr
+-target
+i686-pc-windows-gnu

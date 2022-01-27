@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\11_1_Callback_Function_Pointer_And_Function_Object
+-target
+i686-pc-windows-gnu

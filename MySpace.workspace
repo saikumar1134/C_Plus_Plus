@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MySpace" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="MyBoost" Path="MyBoost/MyBoost.project" Active="No"/>
+  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
+  <Project Name="MultiFiles" Path="MultiFiles/MultiFiles.project" Active="No"/>
+  <Project Name="VirtualDemo" Path="VirtualDemo/VirtualDemo.project" Active="No"/>
+  <Project Name="TestAnyThing" Path="TestAnyThing/TestAnyThing.project" Active="No"/>
+  <Project Name="MultiFiles_1" Path="MultiFiles_1/MultiFiles_1.project" Active="No"/>
+  <Project Name="MakeBuild" Path="MakeBuild/MakeBuild.project" Active="No"/>
+  <Project Name="FileGuard" Path="FileGuard/FileGuard.project" Active="No"/>
+  <Project Name="NamespaceDemo" Path="NamespaceDemo/NamespaceDemo.project" Active="No"/>
+  <VirtualDirectory Name="InputOutput">
+    <Project Name="EndlVsSlashn" Path="EndlVsSlashn/EndlVsSlashn.project" Active="No"/>
+    <Project Name="GetLine" Path="GetLine/GetLine.project" Active="No"/>
+    <Project Name="UnKnownNumbersAsInput" Path="UnKnownNumbersAsInput/UnKnownNumbersAsInput.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="DataTypes">
+    <Project Name="TestDataType" Path="TestDataType/TestDataType.project" Active="No"/>
+    <Project Name="DataTypeOperatons" Path="DataTypeOperatons/DataTypeOperatons.project" Active="No"/>
+    <Project Name="ExceedSpace" Path="ExceedSpace/ExceedSpace.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Complement" Path="Complement/Complement.project" Active="No"/>
+  <VirtualDirectory Name="Operators">
+    <Project Name="PrePostIncrements" Path="PrePostIncrements/PrePostIncrements.project" Active="No"/>
+    <Project Name="FindingMissingNumber" Path="FindingMissingNumber/FindingMissingNumber.project" Active="No"/>
+    <Project Name="Enum" Path="Enum/Enum.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="TheoriesOfNumbers" Path="RevereseNumber/RevereseNumber.project" Active="No"/>
+  <VirtualDirectory Name="Arrays">
+    <Project Name="1DArrays" Path="1DArrays/1DArrays.project" Active="No"/>
+    <Project Name="Patterns" Path="Patterns/Patterns.project" Active="No"/>
+    <Project Name="MatrixOperations" Path="MatrixOperations/MatrixOperations.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="CodingBlocks">
+    <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+    <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+    <Project Name="BubbleSort" Path="BubbleSort/BubbleSort.project" Active="No"/>
+    <Project Name="InsertionSort" Path="InsertionSort/InsertionSort.project" Active="No"/>
+    <Project Name="Inbuilt_sort" Path="Inbuilt_sort/Inbuilt_sort.project" Active="No"/>
+    <Project Name="BubbleSort_With_Comparator" Path="BubbleSort_With_Comparator/BubbleSort_With_Comparator.project" Active="No"/>
+    <Project Name="AllSubArrays" Path="AllSubArrays/AllSubArrays.project" Active="No"/>
+    <Project Name="MaximumSubArray1" Path="MaximumSubArray1/MaximumSubArray1.project" Active="No"/>
+    <Project Name="MaxSubArray_Cumulative" Path="MaxSubArray_Cumulative/MaxSubArray_Cumulative.project" Active="No"/>
+    <Project Name="MaxSubArray_Kadane_Algo" Path="MaxSubArray_Kadane_Algo/MaxSubArray_Kadane_Algo.project" Active="No"/>
+    <Project Name="PairSum" Path="PairSum/PairSum.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="OOPS">
+    <Project Name="OperatorOverloading+" Path="OperatorOverloading+/OperatorOverloading+.project" Active="No"/>
+    <Project Name="EmptyClass" Path="EmptyClass/EmptyClass.project" Active="No"/>
+    <Project Name="StaticKeyword" Path="StaticKeyword/StaticKeyword.project" Active="No"/>
+    <Project Name="FriendFunction" Path="FriendFunction/FriendFunction.project" Active="No"/>
+    <Project Name="FriendClass" Path="FriendClass/FriendClass.project" Active="No"/>
+    <VirtualDirectory Name="ConstructorDestructor">
+      <Project Name="ConstructorDestructorDemo" Path="ConstructorDestructorDemo/ConstructorDestructorDemo.project" Active="No"/>
+      <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+      <Project Name="CopyConstructorDeepCopy" Path="CopyConstructorDeepCopy/CopyConstructorDeepCopy.project" Active="No"/>
+      <Project Name="CopyConstructorShallowCopy" Path="CopyConstructorShallowCopy/CopyConstructorShallowCopy.project" Active="No"/>
+      <Project Name="DestructorDemo" Path="DestructorDemo/DestructorDemo.project" Active="No"/>
+      <Project Name="DefalutConstructor" Path="DefalutConstructor/DefalutConstructor.project" Active="No"/>
+      <Project Name="OrderOfInitializatinOfMembers" Path="OrderOfInitializatinOfMembers/OrderOfInitializatinOfMembers.project" Active="No"/>
+      <Project Name="CopyElision" Path="CopyElision/CopyElision.project" Active="No"/>
+      <Project Name="CopyConstructorDeepCopy_2" Path="CopyConstructorDeepCopy_2/CopyConstructorDeepCopy_2.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Overloading">
+      <Project Name="Operator+" Path="Operator+/Operator+.project" Active="No"/>
+      <Project Name="AllOperatorsOverloading" Path="AllOperatorsOverloading/AllOperatorsOverloading.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Inheritance">
+      <Project Name="Practice_Inheritance" Path="Practice_Inheritance/Practice_Inheritance.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Default_User_Defined_Assignment_Operator">
+      <Project Name="DefaultAssignmentOperator" Path="DefaultAssignmentOperator/DefaultAssignmentOperator.project" Active="No"/>
+      <Project Name="UserDefinedAssignOperator" Path="UserDefinedAssignOperator/UserDefinedAssignOperator.project" Active="No"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Project Name="FuncionPointers" Path="FuncionPointers/FuncionPointers.project" Active="No"/>
+  <VirtualDirectory Name="C++11_14">
+    <Project Name="SmartPointerDemo" Path="SmartPointerDemo/SmartPointerDemo.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Modern_C++">
+    <Project Name="Auto" Path="Auto/Auto.project" Active="No"/>
+    <Project Name="3_RangeBaseForLoop" Path="3_RangeBaseForLoop/3_RangeBaseForLoop.project" Active="No"/>
+    <Project Name="2_Auto" Path="2_Auto/2_Auto.project" Active="No"/>
+    <Project Name="1_Uniform_Initialization" Path="1_Uniform_Initialization/1_Uniform_Initialization.project" Active="No"/>
+    <Project Name="4_Non_Static_Members_Initialization" Path="4_Non_Static_Members_Initialization/4_Non_Static_Members_Initialization.project" Active="No"/>
+    <Project Name="5_Delegating_Constructor" Path="5_Delegating_Constructor/5_Delegating_Constructor.project" Active="No"/>
+    <Project Name="6_Default_Delete_Usage" Path="6_Default_Delete_Usage/6_Default_Delete_Usage.project" Active="No"/>
+    <Project Name="7_L_Value_R_Value_References" Path="7_L_Value_R_Value_References/7_L_Value_R_Value_References.project" Active="No"/>
+    <VirtualDirectory Name="8_Move_Semantics">
+      <Project Name="8_0_Move_Semantics_Intro" Path="8_0_Move_Semantics_Intro/8_0_Move_Semantics_Intro.project" Active="No"/>
+      <Project Name="8_1_Rule_Of_5" Path="8_1_Rule_Of_5/8_1_Rule_Of_5.project" Active="No"/>
+      <Project Name="8_2_Rule_Of_0_Automatic_Synthesizing" Path="8_2_Rule_Of_0_Automatic_Synthesizing/8_2_Rule_Of_0_Automatic_Synthesizing.project" Active="No"/>
+      <Project Name="8_3_Rule_Of_0_User_Defined_Ownership" Path="8_3_Rule_Of_0_User_Defined_Ownership/8_3_Rule_Of_0_User_Defined_Ownership.project" Active="No"/>
+      <Project Name="8_4_Std_Move" Path="8_4_Std_Move/8_4_Std_Move.project" Active="No"/>
+      <Project Name="8_4_1_Std_Move_String_Swap" Path="8_4_1_Std_Move_String_Swap/8_4_1_Std_Move_String_Swap.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="9_Smart_Pointers">
+      <Project Name="9_0_Smart_Pointers_Underhood" Path="9_0_Smart_Pointers_Underhood/9_0_Smart_Pointers_Underhood.project" Active="No"/>
+      <Project Name="9_1_Unieqe_Ptr" Path="9_1_Unieqe_Ptr/9_1_Unieqe_Ptr.project" Active="No"/>
+      <Project Name="9_2_Unique_Ptr_With_Class_Objects" Path="9_2_Unique_Ptr_With_Class_Objects/9_2_Unique_Ptr_With_Class_Objects.project" Active="No"/>
+      <Project Name="9_3_Shared_Ptr" Path="9_3_Shared_Ptr/9_3_Shared_Ptr.project" Active="No"/>
+      <Project Name="9_4_Shared_Pointer_Circular_Dependency" Path="9_4_Shared_Pointer_Circular_Dependency/9_4_Shared_Pointer_Circular_Dependency.project" Active="No"/>
+      <Project Name="9_5_Weak_Pointer" Path="9_5_Weak_Pointer/9_5_Weak_Pointer.project" Active="No"/>
+      <Project Name="9_6_Weak_Pointer_Solution_Cir_Refererences" Path="9_6_Weak_Pointer_Solution_Cir_Refererences/9_6_Weak_Pointer_Solution_Cir_Refererences.project" Active="No"/>
+      <Project Name="9_7_Custom_Deleter" Path="9_7_Custom_Deleter/9_7_Custom_Deleter.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="10_Templates">
+      <Project Name="10_1_T_Argument_Deduction_And_Instantiation" Path="10_1_T_Argument_Deduction_And_Instantiation/10_1_T_Argument_Deduction_And_Instantiation.project" Active="No"/>
+      <Project Name="10_2_Non_Type_Template_Arguments" Path="10_2_Non_Type_Template_Arguments/10_2_Non_Type_Template_Arguments.project" Active="No"/>
+      <Project Name="10_3_Perfect_Forwarding" Path="10_3_Perfect_Forwarding/10_3_Perfect_Forwarding.project" Active="No"/>
+      <Project Name="10_4_Variadic_Template" Path="10_4_Variadic_Template/10_4_Variadic_Template.project" Active="No"/>
+      <Project Name="10_5_Variadic_Template_With_Forwarding" Path="10_5_Variadic_Template_With_Forwarding/10_5_Variadic_Template_With_Forwarding.project" Active="No"/>
+      <Project Name="10_6_Class_Templates" Path="10_6_Class_Templates/10_6_Class_Templates.project" Active="No"/>
+      <Project Name="10_7_Specialized_Template_Class" Path="10_7_Specialized_Template_Class/10_7_Specialized_Template_Class.project" Active="No"/>
+      <Project Name="10_8_Partial_Template_Class" Path="10_8_Partial_Template_Class/10_8_Partial_Template_Class.project" Active="No"/>
+      <Project Name="10_9_Type_Alias_and_Alias_Template" Path="10_9_Type_Alias_and_Alias_Template/10_9_Type_Alias_and_Alias_Template.project" Active="No"/>
+      <Project Name="10_10_Type_Traits" Path="10_10_Type_Traits/10_10_Type_Traits.project" Active="No"/>
+      <Project Name="10_11_Static_Assert" Path="10_11_Static_Assert/10_11_Static_Assert.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="11_Lambda_Expressions">
+      <Project Name="11_1_Callback_Function_Pointer_And_Function_Object" Path="11_1_Callback_Function_Pointer_And_Function_Object/11_1_Callback_Function_Pointer_And_Function_Object.project" Active="No"/>
+      <Project Name="11_2_Lambda_Expression_Internals" Path="11_2_Lambda_Expression_Internals/11_2_Lambda_Expression_Internals.project" Active="No"/>
+      <Project Name="11_3_Generalized_Lambda_Capture" Path="11_3_Generalized_Lambda_Capture/11_3_Generalized_Lambda_Capture.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="12_Concurrency_Or_Threading">
+      <Project Name="12_1_Introduction_To_Threads" Path="12_1_Introduction_To_Threads/12_1_Introduction_To_Threads.project" Active="No"/>
+      <Project Name="12_2_No_Of_Ways_To_Create_Threads" Path="12_2_No_Of_Ways_To_Create_Threads/12_2_No_Of_Ways_To_Create_Threads.project" Active="No"/>
+      <Project Name="12_3_Join_Detach_Joinable" Path="12_3_Join_Detach_Joinable/12_3_Join_Detach_Joinable.project" Active="No"/>
+      <Project Name="12_4_Mutex_RaceCondition_CriticalSection" Path="12_4_Mutex_RaceCondition_CriticalSection/12_4_Mutex_RaceCondition_CriticalSection.project" Active="No"/>
+      <VirtualDirectory Name="12_5_Try_Lock">
+        <Project Name="12_5_1_Mutex_Try_Lock" Path="12_5_1_Mutex_Try_Lock/12_5_1_Mutex_Try_Lock.project" Active="No"/>
+        <Project Name="12_5_2_Std_Try_Lock" Path="12_5_2_Std_Try_Lock/12_5_2_Std_Try_Lock.project" Active="No"/>
+        <Project Name="12_5_3_Std_Timed_Mutex_Try_Lock" Path="12_5_3_Std_Timed_Mutex_Try_Lock/12_5_3_Std_Timed_Mutex_Try_Lock.project" Active="No"/>
+        <Project Name="12_5_4_Recursive_Mutex_Try_Lock" Path="12_5_4_Recursive_Mutex_Try_Lock/12_5_4_Recursive_Mutex_Try_Lock.project" Active="No"/>
+        <Project Name="12_5_5_Lock_Guard_Mutex" Path="12_5_5_Lock_Guard_Mutex/12_5_5_Lock_Guard_Mutex.project" Active="No"/>
+        <Project Name="12_5_6_Unique_Lock_Mutex" Path="12_5_6_Unique_Lock_Mutex/12_5_6_Unique_Lock_Mutex.project" Active="No"/>
+        <Project Name="12_5_7_Std_Lock" Path="12_5_7_Std_Lock/12_5_7_Std_Lock.project" Active="No"/>
+      </VirtualDirectory>
+      <Project Name="12_6_Condition_Variable" Path="12_6_Condition_Variable/12_6_Condition_Variable.project" Active="No"/>
+      <Project Name="12_7_Producer_Consumer_Problem" Path="12_7_Producer_Consumer_Problem/12_7_Producer_Consumer_Problem.project" Active="No"/>
+      <Project Name="12_8_Dead_lock" Path="12_8_Dead_lock/12_8_Dead_lock.project" Active="No"/>
+      <Project Name="12_9_Promise_And_Future" Path="12_9_Promise_And_Future/12_9_Promise_And_Future.project" Active="No"/>
+      <Project Name="12_10_Std_Async" Path="12_10_Std_Async/12_10_Std_Async.project" Active="No"/>
+    </VirtualDirectory>
+    <Project Name="13_Scoped_Enum" Path="13_Scoped_Enum/13_Scoped_Enum.project" Active="No"/>
+    <Project Name="14_Userd_Defined_Literals" Path="14_Userd_Defined_Literals/14_Userd_Defined_Literals.project" Active="No"/>
+    <Project Name="15_Constexpr" Path="15_Constexpr/15_Constexpr.project" Active="No"/>
+    <Project Name="16_Final_And_Override" Path="16_Final_And_Override/16_Final_And_Override.project" Active="No"/>
+    <Project Name="17_RawStrings" Path="17_RawStrings/17_RawStrings.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Design">
+    <VirtualDirectory Name="SOLID_Principles">
+      <VirtualDirectory Name="Single_Responsibility_Principle">
+        <Project Name="1_SRP_Violation_Payroll_System" Path="1_SRP_Violation_Payroll_System/1_SRP_Violation_Payroll_System.project" Active="No"/>
+        <Project Name="2_SRP_Solution_Payroll_System" Path="2_SRP_Solution_Payroll_System/2_SRP_Solution_Payroll_System.project" Active="No"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="2_Open_Closed_Principle">
+        <Project Name="1_OCP_Violation_CalculateTax" Path="1_OCP_Violation_CalculateTax/1_OCP_Violation_CalculateTax.project" Active="No"/>
+        <Project Name="2_OCP_Solution_CalculateTax" Path="2_OCP_Solution_CalculateTax/2_OCP_Solution_CalculateTax.project" Active="No"/>
+        <Project Name="3_OCP_Violation_CalculateSalary" Path="3_OCP_Violation_CalculateSalary/3_OCP_Violation_CalculateSalary.project" Active="No"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="3_Liskov_Substitution_Priniciple">
+        <Project Name="1_LSP_Violation_Square_Rectangle" Path="1_LSP_Violation_Square_Rectangle/1_LSP_Violation_Square_Rectangle.project" Active="No"/>
+        <Project Name="2_LSP_Violation_TransportDevice" Path="2_LSP_Violation_TransportDevice/2_LSP_Violation_TransportDevice.project" Active="No"/>
+        <Project Name="1_1_LSP_Solution_Square_Rectangle" Path="1_1_LSP_Solution_Square_Rectangle/1_1_LSP_Solution_Square_Rectangle.project" Active="No"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="4_Interface_Segregataion_Prinicple">
+        <Project Name="1_ISP_Violation_Animal" Path="1_ISP_Violation_Animal/1_ISP_Violation_Animal.project" Active="No"/>
+        <Project Name="2_ISP_Solution_Animal" Path="2_ISP_Solution_Animal/2_ISP_Solution_Animal.project" Active="No"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="UML">
+    <VirtualDirectory Name="Relationships">
+      <VirtualDirectory Name="Dependency">
+        <VirtualDirectory Name="Between_Objects">
+          <Project Name="Stereotype_call" Path="Stereotype_call/Stereotype_call.project" Active="No"/>
+          <Project Name="Stereo_copy" Path="Stereo_copy/Stereo_copy.project" Active="Yes"/>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MyBoost" ConfigName="Debug"/>
+      <Project Name="LinkedList" ConfigName="Debug"/>
+      <Project Name="MultiFiles" ConfigName="Debug"/>
+      <Project Name="VirtualDemo" ConfigName="Debug"/>
+      <Project Name="TestAnyThing" ConfigName="Debug"/>
+      <Project Name="MultiFiles_1" ConfigName="Debug"/>
+      <Project Name="MakeBuild" ConfigName="Debug"/>
+      <Project Name="FileGuard" ConfigName="Debug"/>
+      <Project Name="NamespaceDemo" ConfigName="Debug"/>
+      <Project Name="EndlVsSlashn" ConfigName="Debug"/>
+      <Project Name="GetLine" ConfigName="Debug"/>
+      <Project Name="UnKnownNumbersAsInput" ConfigName="Debug"/>
+      <Project Name="DataTypeOperatons" ConfigName="Debug"/>
+      <Project Name="ExceedSpace" ConfigName="Debug"/>
+      <Project Name="Complement" ConfigName="Debug"/>
+      <Project Name="PrePostIncrements" ConfigName="Debug"/>
+      <Project Name="FindingMissingNumber" ConfigName="Debug"/>
+      <Project Name="Enum" ConfigName="Debug"/>
+      <Project Name="TheoriesOfNumbers" ConfigName="Debug"/>
+      <Project Name="1DArrays" ConfigName="Debug"/>
+      <Project Name="Patterns" ConfigName="Debug"/>
+      <Project Name="MatrixOperations" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="BubbleSort" ConfigName="Debug"/>
+      <Project Name="InsertionSort" ConfigName="Debug"/>
+      <Project Name="Inbuilt_sort" ConfigName="Debug"/>
+      <Project Name="BubbleSort_With_Comparator" ConfigName="Debug"/>
+      <Project Name="AllSubArrays" ConfigName="Debug"/>
+      <Project Name="MaximumSubArray1" ConfigName="Debug"/>
+      <Project Name="MaxSubArray_Cumulative" ConfigName="Debug"/>
+      <Project Name="MaxSubArray_Kadane_Algo" ConfigName="Debug"/>
+      <Project Name="PairSum" ConfigName="Debug"/>
+      <Project Name="OperatorOverloading+" ConfigName="Debug"/>
+      <Project Name="EmptyClass" ConfigName="Debug"/>
+      <Project Name="StaticKeyword" ConfigName="Debug"/>
+      <Project Name="FriendFunction" ConfigName="Debug"/>
+      <Project Name="FriendClass" ConfigName="Debug"/>
+      <Project Name="FuncionPointers" ConfigName="Debug"/>
+      <Project Name="ConstructorDestructorDemo" ConfigName="Debug"/>
+      <Project Name="CopyConstructorDeepCopy" ConfigName="Debug"/>
+      <Project Name="CopyConstructorShallowCopy" ConfigName="Debug"/>
+      <Project Name="DestructorDemo" ConfigName="Debug"/>
+      <Project Name="DefalutConstructor" ConfigName="Debug"/>
+      <Project Name="OrderOfInitializatinOfMembers" ConfigName="Debug"/>
+      <Project Name="Operator+" ConfigName="Debug"/>
+      <Project Name="Practice_Inheritance" ConfigName="Debug"/>
+      <Project Name="CopyElision" ConfigName="Debug"/>
+      <Project Name="SmartPointerDemo" ConfigName="Debug"/>
+      <Project Name="AllOperatorsOverloading" ConfigName="Debug"/>
+      <Project Name="DefaultAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="UserDefinedAssignOperator" ConfigName="Debug"/>
+      <Project Name="3_RangeBaseForLoop" ConfigName="Debug"/>
+      <Project Name="2_Auto" ConfigName="Debug"/>
+      <Project Name="1_Uniform_Initialization" ConfigName="Debug"/>
+      <Project Name="4_Non_Static_Members_Initialization" ConfigName="Debug"/>
+      <Project Name="5_Delegating_Constructor" ConfigName="Debug"/>
+      <Project Name="6_Default_Delete_Usage" ConfigName="Debug"/>
+      <Project Name="7_L_Value_R_Value_References" ConfigName="Debug"/>
+      <Project Name="9.1_Rule_of_0_Automatic_Synthesizing" ConfigName="Debug"/>
+      <Project Name="9.0_Rule_Of_5" ConfigName="Debug"/>
+      <Project Name="8.0_Move_Semantics" ConfigName="Debug"/>
+      <Project Name="8.1_Rule_Of_5" ConfigName="Debug"/>
+      <Project Name="8.3_Rule_Of_0_User_Defined_Ownership" ConfigName="Debug"/>
+      <Project Name="8_0_Move_Semantics_Intro" ConfigName="Debug"/>
+      <Project Name="8_1_Rule_Of_5" ConfigName="Debug"/>
+      <Project Name="8.2_Rule_Of_0_Automatic_Synthesizing" ConfigName="Debug"/>
+      <Project Name="8_2_Rule_Of_0_Automatic_Synthesizing" ConfigName="Debug"/>
+      <Project Name="8_3_Rule_Of_0_User_Defined_Ownership" ConfigName="Debug"/>
+      <Project Name="8_4_Std_Move" ConfigName="Debug"/>
+      <Project Name="8_4_1_Std_Move_String_Swap" ConfigName="Debug"/>
+      <Project Name="9_0_Smart_Pointers_Underhood" ConfigName="Debug"/>
+      <Project Name="9_1_Unieqe_Ptr" ConfigName="Debug"/>
+      <Project Name="9_2_Unique_Ptr_With_Class_Objects" ConfigName="Debug"/>
+      <Project Name="9_3_Shared_Ptr" ConfigName="Debug"/>
+      <Project Name="9_4_Shared_Pointer_Circular_Dependency" ConfigName="Debug"/>
+      <Project Name="9_5_Weak_Pointer" ConfigName="Debug"/>
+      <Project Name="9_6_Weak_Pointer_Solution_Cir_Refererences" ConfigName="Debug"/>
+      <Project Name="9_7_Custom_Deleter" ConfigName="Debug"/>
+      <Project Name="10_1_T_Argument_Deduction_And_Instantiation" ConfigName="Debug"/>
+      <Project Name="10_2_Non_Type_Template_Arguments" ConfigName="Debug"/>
+      <Project Name="10_3_Perfect_Forwarding" ConfigName="Debug"/>
+      <Project Name="10_4_Variadic_Template" ConfigName="Debug"/>
+      <Project Name="10_5_Variadic_Template_With_Forwarding" ConfigName="Debug"/>
+      <Project Name="10_6_Class_Templates" ConfigName="Debug"/>
+      <Project Name="10_7_Specialized_Template_Class" ConfigName="Debug"/>
+      <Project Name="10_8_Partial_Template_Class" ConfigName="Debug"/>
+      <Project Name="10_9_Type_Alias_and_Alias_Template" ConfigName="Debug"/>
+      <Project Name="10_10_Type_Traits" ConfigName="Debug"/>
+      <Project Name="10_11_Static_Assert" ConfigName="Debug"/>
+      <Project Name="11_1_Callback_Function_Pointer_And_Function_Object" ConfigName="Debug"/>
+      <Project Name="11_2_Lambda_Expression_Internals" ConfigName="Debug"/>
+      <Project Name="11_3_Generalized_Lambda_Capture" ConfigName="Debug"/>
+      <Project Name="12_1_Introduction_To_Threads" ConfigName="Debug"/>
+      <Project Name="12_2_No_Of_Ways_To_Create_Threads" ConfigName="Debug"/>
+      <Project Name="12_3_Join_Detach_Joinable" ConfigName="Debug"/>
+      <Project Name="12_4_Mutex_RaceCondition_CriticalSection" ConfigName="Debug"/>
+      <Project Name="12_5_1_Mutex_Try_Lock" ConfigName="Debug"/>
+      <Project Name="12_5_2_Std_Try_Lock" ConfigName="Debug"/>
+      <Project Name="12_5_3_Std_Timed_Mutex_Try_Lock" ConfigName="Debug"/>
+      <Project Name="12_5_4_Recursive_Mutex_Try_Lock" ConfigName="Debug"/>
+      <Project Name="12_5_5_Lock_Guard_Mutex" ConfigName="Debug"/>
+      <Project Name="12_5_6_Unique_Lock_Mutex" ConfigName="Debug"/>
+      <Project Name="12_6_Condition_Variable" ConfigName="Debug"/>
+      <Project Name="12_7_Producer_Consumer_Problem" ConfigName="Debug"/>
+      <Project Name="12_8_Dead_lock" ConfigName="Debug"/>
+      <Project Name="12_5_7_Std_Lock" ConfigName="Debug"/>
+      <Project Name="12_9_Promise_And_Future" ConfigName="Debug"/>
+      <Project Name="12_10_Std_Async" ConfigName="Debug"/>
+      <Project Name="13_Scoped_Enum" ConfigName="Debug"/>
+      <Project Name="14_Userd_Defined_Literals" ConfigName="Debug"/>
+      <Project Name="15_Constexpr" ConfigName="Debug"/>
+      <Project Name="16_Final_And_Override" ConfigName="Debug"/>
+      <Project Name="17_RawStrings" ConfigName="Debug"/>
+      <Project Name="1_SRP_Violation_Payroll_System" ConfigName="Debug"/>
+      <Project Name="2_SRP_Solution_Payroll_System" ConfigName="Debug"/>
+      <Project Name="1_OCP_Violation_CalculateTax" ConfigName="Debug"/>
+      <Project Name="2_OCP_Solution_CalculateTax" ConfigName="Debug"/>
+      <Project Name="3_OCP_Violation_CalculateSalary" ConfigName="Debug"/>
+      <Project Name="1_LSP_Violation_Square_Rectangle" ConfigName="Debug"/>
+      <Project Name="2_LSP_Violation_TransportDevice" ConfigName="Debug"/>
+      <Project Name="1_1_LSP_Solution_Square_Rectangle" ConfigName="Debug"/>
+      <Project Name="1_ISP_Violation_Animal" ConfigName="Debug"/>
+      <Project Name="2_ISP_Solution_Animal" ConfigName="Debug"/>
+      <Project Name="CopyConstructorDeepCopy_2" ConfigName="Debug"/>
+      <Project Name="Stereotype_call" ConfigName="Debug"/>
+      <Project Name="Stereo_copy" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MyBoost" ConfigName="Release"/>
+      <Project Name="LinkedList" ConfigName="Release"/>
+      <Project Name="MultiFiles" ConfigName="Release"/>
+      <Project Name="VirtualDemo" ConfigName="Release"/>
+      <Project Name="TestAnyThing" ConfigName="Release"/>
+      <Project Name="MultiFiles_1" ConfigName="Release"/>
+      <Project Name="MakeBuild" ConfigName="Release"/>
+      <Project Name="FileGuard" ConfigName="Release"/>
+      <Project Name="NamespaceDemo" ConfigName="Release"/>
+      <Project Name="EndlVsSlashn" ConfigName="Release"/>
+      <Project Name="GetLine" ConfigName="Release"/>
+      <Project Name="UnKnownNumbersAsInput" ConfigName="Release"/>
+      <Project Name="DataTypeOperatons" ConfigName="Release"/>
+      <Project Name="ExceedSpace" ConfigName="Release"/>
+      <Project Name="Complement" ConfigName="Release"/>
+      <Project Name="PrePostIncrements" ConfigName="Release"/>
+      <Project Name="FindingMissingNumber" ConfigName="Release"/>
+      <Project Name="Enum" ConfigName="Release"/>
+      <Project Name="TheoriesOfNumbers" ConfigName="Release"/>
+      <Project Name="1DArrays" ConfigName="Release"/>
+      <Project Name="Patterns" ConfigName="Release"/>
+      <Project Name="MatrixOperations" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="BubbleSort" ConfigName="Release"/>
+      <Project Name="InsertionSort" ConfigName="Release"/>
+      <Project Name="Inbuilt_sort" ConfigName="Release"/>
+      <Project Name="BubbleSort_With_Comparator" ConfigName="Release"/>
+      <Project Name="AllSubArrays" ConfigName="Release"/>
+      <Project Name="MaximumSubArray1" ConfigName="Release"/>
+      <Project Name="MaxSubArray_Cumulative" ConfigName="Release"/>
+      <Project Name="MaxSubArray_Kadane_Algo" ConfigName="Release"/>
+      <Project Name="PairSum" ConfigName="Release"/>
+      <Project Name="OperatorOverloading+" ConfigName="Release"/>
+      <Project Name="EmptyClass" ConfigName="Release"/>
+      <Project Name="StaticKeyword" ConfigName="Release"/>
+      <Project Name="FriendFunction" ConfigName="Release"/>
+      <Project Name="FriendClass" ConfigName="Release"/>
+      <Project Name="FuncionPointers" ConfigName="Release"/>
+      <Project Name="ConstructorDestructorDemo" ConfigName="Release"/>
+      <Project Name="CopyConstructorDeepCopy" ConfigName="Release"/>
+      <Project Name="CopyConstructorShallowCopy" ConfigName="Release"/>
+      <Project Name="DestructorDemo" ConfigName="Release"/>
+      <Project Name="DefalutConstructor" ConfigName="Release"/>
+      <Project Name="OrderOfInitializatinOfMembers" ConfigName="Release"/>
+      <Project Name="Operator+" ConfigName="Release"/>
+      <Project Name="Practice_Inheritance" ConfigName="Release"/>
+      <Project Name="CopyElision" ConfigName="Release"/>
+      <Project Name="SmartPointerDemo" ConfigName="Release"/>
+      <Project Name="AllOperatorsOverloading" ConfigName="Release"/>
+      <Project Name="DefaultAssignmentOperator" ConfigName="Release"/>
+      <Project Name="UserDefinedAssignOperator" ConfigName="Release"/>
+      <Project Name="3_RangeBaseForLoop" ConfigName="Release"/>
+      <Project Name="2_Auto" ConfigName="Release"/>
+      <Project Name="1_Uniform_Initialization" ConfigName="Release"/>
+      <Project Name="4_Non_Static_Members_Initialization" ConfigName="Release"/>
+      <Project Name="5_Delegating_Constructor" ConfigName="Release"/>
+      <Project Name="6_Default_Delete_Usage" ConfigName="Release"/>
+      <Project Name="7_L_Value_R_Value_References" ConfigName="Release"/>
+      <Project Name="9.1_Rule_of_0_Automatic_Synthesizing" ConfigName="Release"/>
+      <Project Name="9.0_Rule_Of_5" ConfigName="Release"/>
+      <Project Name="8.0_Move_Semantics" ConfigName="Release"/>
+      <Project Name="8.1_Rule_Of_5" ConfigName="Release"/>
+      <Project Name="8.3_Rule_Of_0_User_Defined_Ownership" ConfigName="Release"/>
+      <Project Name="8_0_Move_Semantics_Intro" ConfigName="Release"/>
+      <Project Name="8_1_Rule_Of_5" ConfigName="Release"/>
+      <Project Name="8.2_Rule_Of_0_Automatic_Synthesizing" ConfigName="Release"/>
+      <Project Name="8_2_Rule_Of_0_Automatic_Synthesizing" ConfigName="Release"/>
+      <Project Name="8_3_Rule_Of_0_User_Defined_Ownership" ConfigName="Release"/>
+      <Project Name="8_4_Std_Move" ConfigName="Release"/>
+      <Project Name="8_4_1_Std_Move_String_Swap" ConfigName="Release"/>
+      <Project Name="9_0_Smart_Pointers_Underhood" ConfigName="Release"/>
+      <Project Name="9_1_Unieqe_Ptr" ConfigName="Release"/>
+      <Project Name="9_2_Unique_Ptr_With_Class_Objects" ConfigName="Release"/>
+      <Project Name="9_3_Shared_Ptr" ConfigName="Release"/>
+      <Project Name="9_4_Shared_Pointer_Circular_Dependency" ConfigName="Release"/>
+      <Project Name="9_5_Weak_Pointer" ConfigName="Release"/>
+      <Project Name="9_6_Weak_Pointer_Solution_Cir_Refererences" ConfigName="Release"/>
+      <Project Name="9_7_Custom_Deleter" ConfigName="Release"/>
+      <Project Name="10_1_T_Argument_Deduction_And_Instantiation" ConfigName="Release"/>
+      <Project Name="10_2_Non_Type_Template_Arguments" ConfigName="Release"/>
+      <Project Name="10_3_Perfect_Forwarding" ConfigName="Release"/>
+      <Project Name="10_4_Variadic_Template" ConfigName="Release"/>
+      <Project Name="10_5_Variadic_Template_With_Forwarding" ConfigName="Release"/>
+      <Project Name="10_6_Class_Templates" ConfigName="Release"/>
+      <Project Name="10_7_Specialized_Template_Class" ConfigName="Release"/>
+      <Project Name="10_8_Partial_Template_Class" ConfigName="Release"/>
+      <Project Name="10_9_Type_Alias_and_Alias_Template" ConfigName="Release"/>
+      <Project Name="10_10_Type_Traits" ConfigName="Release"/>
+      <Project Name="10_11_Static_Assert" ConfigName="Release"/>
+      <Project Name="11_1_Callback_Function_Pointer_And_Function_Object" ConfigName="Release"/>
+      <Project Name="11_2_Lambda_Expression_Internals" ConfigName="Release"/>
+      <Project Name="11_3_Generalized_Lambda_Capture" ConfigName="Release"/>
+      <Project Name="12_1_Introduction_To_Threads" ConfigName="Release"/>
+      <Project Name="12_2_No_Of_Ways_To_Create_Threads" ConfigName="Release"/>
+      <Project Name="12_3_Join_Detach_Joinable" ConfigName="Release"/>
+      <Project Name="12_4_Mutex_RaceCondition_CriticalSection" ConfigName="Release"/>
+      <Project Name="12_5_1_Mutex_Try_Lock" ConfigName="Release"/>
+      <Project Name="12_5_2_Std_Try_Lock" ConfigName="Release"/>
+      <Project Name="12_5_3_Std_Timed_Mutex_Try_Lock" ConfigName="Release"/>
+      <Project Name="12_5_4_Recursive_Mutex_Try_Lock" ConfigName="Release"/>
+      <Project Name="12_5_5_Lock_Guard_Mutex" ConfigName="Release"/>
+      <Project Name="12_5_6_Unique_Lock_Mutex" ConfigName="Release"/>
+      <Project Name="12_6_Condition_Variable" ConfigName="Release"/>
+      <Project Name="12_7_Producer_Consumer_Problem" ConfigName="Release"/>
+      <Project Name="12_8_Dead_lock" ConfigName="Release"/>
+      <Project Name="12_5_7_Std_Lock" ConfigName="Release"/>
+      <Project Name="12_9_Promise_And_Future" ConfigName="Release"/>
+      <Project Name="12_10_Std_Async" ConfigName="Release"/>
+      <Project Name="13_Scoped_Enum" ConfigName="Release"/>
+      <Project Name="14_Userd_Defined_Literals" ConfigName="Release"/>
+      <Project Name="15_Constexpr" ConfigName="Release"/>
+      <Project Name="16_Final_And_Override" ConfigName="Release"/>
+      <Project Name="17_RawStrings" ConfigName="Release"/>
+      <Project Name="1_SRP_Violation_Payroll_System" ConfigName="Release"/>
+      <Project Name="2_SRP_Solution_Payroll_System" ConfigName="Release"/>
+      <Project Name="1_OCP_Violation_CalculateTax" ConfigName="Release"/>
+      <Project Name="2_OCP_Solution_CalculateTax" ConfigName="Release"/>
+      <Project Name="3_OCP_Violation_CalculateSalary" ConfigName="Release"/>
+      <Project Name="1_LSP_Violation_Square_Rectangle" ConfigName="Release"/>
+      <Project Name="2_LSP_Violation_TransportDevice" ConfigName="Release"/>
+      <Project Name="1_1_LSP_Solution_Square_Rectangle" ConfigName="Release"/>
+      <Project Name="1_ISP_Violation_Animal" ConfigName="Release"/>
+      <Project Name="2_ISP_Solution_Animal" ConfigName="Release"/>
+      <Project Name="CopyConstructorDeepCopy_2" ConfigName="Release"/>
+      <Project Name="Stereotype_call" ConfigName="Release"/>
+      <Project Name="Stereo_copy" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

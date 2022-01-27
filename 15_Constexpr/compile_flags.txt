@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\15_Constexpr
+-target
+i686-pc-windows-gnu

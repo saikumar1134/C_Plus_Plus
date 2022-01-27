@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\12_4_Mutex_RaceCondition_CriticalSection
+-target
+i686-pc-windows-gnu

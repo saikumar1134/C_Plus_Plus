@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_9_Type_Alias_and_Alias_Template
+-target
+i686-pc-windows-gnu

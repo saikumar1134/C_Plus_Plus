@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\StaticKeyword
+-target
+i686-pc-windows-gnu

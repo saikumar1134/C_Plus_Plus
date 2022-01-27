@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\Enum
+-target
+i686-pc-windows-gnu

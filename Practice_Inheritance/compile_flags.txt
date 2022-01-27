@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\Practice_Inheritance
+-target
+i686-pc-windows-gnu

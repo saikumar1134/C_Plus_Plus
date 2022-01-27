@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\2_SRP_Solution_Payroll_System
+-target
+i686-pc-windows-gnu

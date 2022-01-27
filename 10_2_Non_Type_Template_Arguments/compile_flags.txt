@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\10_2_Non_Type_Template_Arguments
+-target
+i686-pc-windows-gnu

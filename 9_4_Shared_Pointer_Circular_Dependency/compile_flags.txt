@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\9_4_Shared_Pointer_Circular_Dependency
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\2_ISP_Solution_Animal
+-target
+i686-pc-windows-gnu

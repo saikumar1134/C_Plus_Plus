@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\12_6_Condition_Variable
+-target
+i686-pc-windows-gnu

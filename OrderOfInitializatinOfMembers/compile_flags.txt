@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\OrderOfInitializatinOfMembers
+-target
+i686-pc-windows-gnu

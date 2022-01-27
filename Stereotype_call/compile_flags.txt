@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\Stereotype_call
+-target
+i686-pc-windows-gnu

@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\4_Non_Static_Members_Initialization
+-target
+i686-pc-windows-gnu

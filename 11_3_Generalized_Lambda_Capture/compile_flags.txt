@@ -1,0 +1,3 @@
+-IE:\CodeLit\MySpace\MySpace\11_3_Generalized_Lambda_Capture
+-target
+i686-pc-windows-gnu
