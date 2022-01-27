@@ -6,10 +6,10 @@ class Test
 {
 	int value;
 public:
-	Test()
+	/*Test()
 	{
 		cout<<"Default constructor"<<endl;
-	}
+	}*/
 	Test(int v){
 		value = v;
 		cout<<"Parameterized constructor"<<endl;
